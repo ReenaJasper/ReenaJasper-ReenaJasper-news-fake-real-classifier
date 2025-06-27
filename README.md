@@ -19,7 +19,7 @@ Tools & Technologies used:
 | `news_classifier_model.pkl` | Trained logistic regression model |
 | `tfidf_vectorizer.pkl` | TF-IDF vectorizer |
 | `requirements.txt` | Python dependencies |
-| `notebook.ipynb` | (Optional) Training notebook if added |
+| `notebook.ipynb` |  Training notebook |
 
 
 Model Overview
@@ -37,5 +37,5 @@ Model Overview
 - Jupyter Notebook (Colab)
 - Trained model + vectorizer
 - Streamlit Web App
-- 2-page Report (see below)
+
 
